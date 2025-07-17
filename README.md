@@ -45,4 +45,3 @@ Experience the speed: [https://sonic-in-town.netlify.app](https://sonic-in-town.
 ```bash
 🔼 Space/Up Arrow - Jump
 🔽 Down Arrow - Roll/Duck
-🅿️ P - Pause Game
