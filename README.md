@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-build-id/deploy-status)](https://sonic-in-town.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-ACTUAL-BADGE-ID/deploy-status)](https://sonic-in-town.netlify.app)
 [![GitHub license](https://img.shields.io/github/license/moustafanasr/sonic-in-town?color=blue)](https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE)
 [![GitHub README](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/blob/main/README.md)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/moustafnasr01)
