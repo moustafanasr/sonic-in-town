@@ -1,46 +1,46 @@
-<h1 align="center">
-  🌀 Sonic In Town
-</h1>
+# 🌀 Sonic In Town: Hyper-Speed Adventure <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="50px">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=08F7FE&vCenter=true&width=435&lines=A+Sonic-inspired+endless+runner+game!;Built+with+Kaplay+%26+Vite!;Fast%2C+lightweight%2C+fun!" alt="Typing SVG" />
-</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-build-id/deploy-status)](https://app.netlify.com/sites/sonic-in-town/deploys)
+[![GitHub license](https://img.shields.io/github/license/moustafanasr/sonic-in-town?color=blue)](https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/stargazers)
 
-<p align="center">
-  <a href="https://sonic-in-town.netlify.app"><img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://github.com/moustafanasr/sonic-in-town"><img src="https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=for-the-badge" /></a>
-  <a href="https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE"><img src="https://img.shields.io/github/license/moustafanasr/sonic-in-town?style=for-the-badge" /></a>
-</p>
+A blazing-fast Sonic-inspired infinite runner built with modern web technologies. Experience the thrill of high-speed platforming right in your browser!
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5bG9mZ3R1a2FpZ3F3Z2V4Y2x0bGZ6dW5jZ2J6eWZqY2J1eGJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Gameplay Preview">
+</div>
 
-## 🎮 Live Demo
+## ✨ Features
 
-👉 [https://sonic-in-town.netlify.app](https://sonic-in-town.netlify.app)
+- ⚡ **Lightning-fast gameplay** with smooth 60fps animations
+- 🌆 **Procedurally generated cityscape** for infinite replayability
+- 🎮 **Intuitive controls** (Keyboard/Touch compatible)
+- � **Score system** with online leaderboards (coming soon)
+- 📱 **Fully responsive** design for all devices
 
----
+## 🚀 Live Demo
 
-## 🚀 Tech Stack
+Experience the speed: [https://sonic-in-town.netlify.app](https://sonic-in-town.netlify.app)
 
-- 🎮 [Kaplay](https://www.kaplay.dev/) – Lightweight 2D Game Engine
-- ⚡ [Vite](https://vitejs.dev/) – Super-fast Frontend Build Tool
-- 💡 JavaScript (ES Modules)
-- 🎨 HTML5 & CSS3
-- 🌍 Deployed on [Netlify](https://netlify.com)
+[![Demo Button](https://img.shields.io/badge/TRY_LIVE_DEMO-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://sonic-in-town.netlify.app)
 
----
+## 🛠 Tech Stack
 
-## 🛠️ Getting Started
+<div align="center">
+  
+| Category       | Technology                                                                 |
+|----------------|---------------------------------------------------------------------------|
+| **Game Engine**| <img src="https://kaplay.dev/favicon.ico" width="16"> [Kaplay](https://www.kaplay.dev/) |
+| **Bundler**    | <img src="https://vitejs.dev/logo.svg" width="16"> [Vite](https://vitejs.dev/) |
+| **Language**   | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16"> JavaScript (ES Modules) |
+| **Styling**    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="16"> HTML5 & CSS3 |
+| **Hosting**    | <img src="https://www.netlify.com/v3/img/components/logomark.png" width="16"> Netlify |
 
-To run the game locally, follow these steps:
+</div>
+
+## 🎮 Controls
 
 ```bash
-# 1. Clone the repository
-git clone https://github.com/moustafanasr/sonic-in-town.git
-cd sonic-in-town
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the development server
-npm run dev
+🔼 Space/Up Arrow - Jump
+🔽 Down Arrow - Roll/Duck
+🅿️ P - Pause Game
