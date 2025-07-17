@@ -1,0 +1,36 @@
+{
+  "name": "sonic-in-town",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "kaplay": "^3001.0.0-alpha.21"
+  },
+  "description": "Develop By Moustafa Mohammed Nasr || Live demo: https://sonic-in-town.netlify.app/",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moustafanasr/sonic-in-town.git"
+  },
+  "keywords": [
+    "game",
+    "sonic",
+    "vite",
+    "kaplay",
+    "runner"
+  ],
+  "author": "Moustafa Mohammed Nasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moustafanasr/sonic-in-town/issues"
+  },
+  "homepage": "https://sonic-in-town.netlify.app/"
+}
