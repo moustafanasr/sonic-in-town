@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-build-id/deploy-status)](https://app.netlify.com/sites/sonic-in-town/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-build-id/deploy-status)](https://sonic-in-town.netlify.app/)
 [![GitHub license](https://img.shields.io/github/license/moustafanasr/sonic-in-town?color=blue)](https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![GitHub README](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/blob/main/README.md)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://x.com/moustafnasr01)
 
 </div>
 
@@ -13,9 +13,10 @@
 <div align="center">
   
 **Moustafa Mohammed Nasr**  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-9cf?style=flat-square)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=flat-square)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-9cf?style=flat-square)](https://moustafa-m-nasr.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/moustafa-mohammed-nasr-006034212/)
+[![GitHub](https://img.shields.io/badge/🐧-GitHub-181717?style=flat-square&logo=github)](https://github.com/moustafanasr)
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://x.com/moustafnasr01)
 
 </div>
 
@@ -73,4 +74,3 @@ Game controls are configured using Kaplay’s input system:
 | 🟢 Move Left  | `←`, `A`                      | ✅ |
 | 🔴 Move Right | `→`, `D`                      | ✅ |
 | 🔼 Jump       | `Space`, `↑`, `W`             | ✅ |
-| 🔽 Duck/Roll  | `↓`                           | ✅ |
