@@ -1,17 +1,32 @@
-# 🌀 Sonic In Town
+<h1 align="center">
+  🌀 Sonic In Town
+</h1>
 
-A fast-paced Sonic-inspired infinite runner game built with the [Kaplay](https://www.kaplay.dev/) game engine and powered by Vite.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=08F7FE&vCenter=true&width=435&lines=A+Sonic-inspired+endless+runner+game!;Built+with+Kaplay+%26+Vite!;Fast%2C+lightweight%2C+fun!" alt="Typing SVG" />
+</p>
 
-🎮 **Live Demo**: [https://sonic-in-town.netlify.app](https://sonic-in-town.netlify.app)
+<p align="center">
+  <a href="https://sonic-in-town.netlify.app"><img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://github.com/moustafanasr/sonic-in-town"><img src="https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=for-the-badge" /></a>
+  <a href="https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE"><img src="https://img.shields.io/github/license/moustafanasr/sonic-in-town?style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🎮 Live Demo
+
+👉 [https://sonic-in-town.netlify.app](https://sonic-in-town.netlify.app)
 
 ---
 
 ## 🚀 Tech Stack
 
-- 🎮 [Kaplay](https://www.kaplay.dev/) – Lightweight game engine
-- ⚡ [Vite](https://vitejs.dev/) – Next-gen frontend tooling
-- 🧠 JavaScript (ES Modules)
+- 🎮 [Kaplay](https://www.kaplay.dev/) – Lightweight 2D Game Engine
+- ⚡ [Vite](https://vitejs.dev/) – Super-fast Frontend Build Tool
+- 💡 JavaScript (ES Modules)
 - 🎨 HTML5 & CSS3
+- 🌍 Deployed on [Netlify](https://netlify.com)
 
 ---
 
@@ -20,12 +35,12 @@ A fast-paced Sonic-inspired infinite runner game built with the [Kaplay](https:/
 To run the game locally, follow these steps:
 
 ```bash
-# Clone the repository
+# 1. Clone the repository
 git clone https://github.com/moustafanasr/sonic-in-town.git
 cd sonic-in-town
 
-# Install dependencies
+# 2. Install dependencies
 npm install
 
-# Start development server
+# 3. Run the development server
 npm run dev
