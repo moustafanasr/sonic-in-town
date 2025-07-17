@@ -4,6 +4,8 @@
 [![GitHub license](https://img.shields.io/github/license/moustafanasr/sonic-in-town?color=blue)](https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/stargazers)
 
+This Game Develop By Moustafa Mohammed Nasr
+
 A blazing-fast Sonic-inspired infinite runner built with modern web technologies. Experience the thrill of high-speed platforming right in your browser!
 
 <div align="center">
