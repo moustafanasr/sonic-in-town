@@ -1,70 +1,83 @@
-# 🌀 Sonic In Town: Hyper-Speed Adventure <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="50px">
+# 🌀 Sonic In Town: Hyper-Speed Adventure <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="50px" />
 
-<div align="center">
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-build-id/deploy-status)](https://app.netlify.com/sites/sonic-in-town/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BUILD-ID/deploy-status)](https://app.netlify.com/sites/sonic-in-town/deploys)
 [![GitHub license](https://img.shields.io/github/license/moustafanasr/sonic-in-town?color=blue)](https://github.com/moustafanasr/sonic-in-town/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/moustafanasr/sonic-in-town?style=social)](https://github.com/moustafanasr/sonic-in-town/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
-</div>
+> 👨‍💻 Built by **Moustafa Mohammed Nasr**
 
-## 👨‍💻 Created By 
-<div align="center">
-  
-**Moustafa Mohammed Nasr**  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-9cf?style=flat-square)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=flat-square)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=flat-square)](https://twitter.com/yourhandle)
-
-</div>
-
-A blazing-fast Sonic-inspired infinite runner built with modern web technologies. Experience the thrill of high-speed platforming right in your browser!
+A blazing-fast Sonic-inspired infinite runner built using [Kaplay](https://www.kaplay.dev/) and Vite.  
+Experience classic speed platforming — straight in your browser!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5bG9mZ3R1a2FpZ3F3Z2V4Y2x0bGZ6dW5jZ2J6eWZqY2J1eGJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Gameplay Preview" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5bG9mZ3R1a2FpZ3F3Z2V4Y2x0bGZ6dW5jZ2J6eWZqY2J1eGJ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" alt="Gameplay Preview">
 </div>
+
+---
 
 ## ✨ Features
 
-<div align="center">
-  
-| Feature | Preview |
-|---------|---------|
-| ⚡ **60FPS Gameplay** | <img src="https://media.giphy.com/media/3o7TKAZnIu4hhyQNMI/giphy.gif" width="200"> |
-| 🌆 **Dynamic City** | <img src="https://media.giphy.com/media/3o7TKJZgpf7fYg0nY4/giphy.gif" width="200"> |
-| 🎮 **Multi-Control** | <img src="https://media.giphy.com/media/3o7TKsQ7Kq1q1q1q1q/giphy.gif" width="200"> |
+- ⚡ **60fps gameplay** powered by Kaplay Engine
+- 🌆 **Procedurally generated city** for infinite fun
+- 🎮 **Smooth keyboard & mobile-friendly controls**
+- 📈 **Score tracking system** (leaderboards coming soon!)
+- 🔀 **Modular game architecture** for easy customization
+- 📱 **Responsive across all devices**
 
-</div>
+---
 
 ## 🚀 Live Demo
 
-<div align="center">
-  
-[![Demo Button](https://img.shields.io/badge/🎮_TRY_LIVE_DEMO-FF5722?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black)](https://sonic-in-town.netlify.app)
+👉 [Play on Netlify](https://sonic-in-town.netlify.app)
 
-</div>
+[![Demo Button](https://img.shields.io/badge/TRY_LIVE_DEMO-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://sonic-in-town.netlify.app)
+
+---
 
 ## 🛠 Tech Stack
 
-<div align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center">
 
-| Category       | Technology | Badge |
-|----------------|------------|-------|
-| **Game Engine**| Kaplay | ![Kaplay](https://img.shields.io/badge/Kaplay-FF2D20?style=for-the-badge&logo=kaboom&logoColor=white) |
-| **Bundler**    | Vite | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
-| **Language**   | JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Styling**    | HTML5 & CSS3 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Hosting**    | Netlify | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| Category         | Technology                                                                 |
+|------------------|----------------------------------------------------------------------------|
+| 🧠 Game Engine   | <img src="https://kaplay.dev/favicon.ico" width="16"> [Kaplay](https://www.kaplay.dev/) |
+| ⚡ Bundler       | <img src="https://vitejs.dev/logo.svg" width="16"> [Vite](https://vitejs.dev/) |
+| 💻 Language      | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="16"> JavaScript (ES Modules) |
+| 🎨 Styling       | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="16"> HTML5 & CSS3 |
+| 🌐 Hosting       | <img src="https://www.netlify.com/v3/img/components/logomark.png" width="16"> [Netlify](https://www.netlify.com) |
 
 </div>
 
+---
+
 ## 🎮 Controls
 
-<div align="center" style="background: #2d3748; padding: 20px; border-radius: 15px; color: white;">
+Game controls are configured using Kaplay’s input system:
 
-```bash
+| Action   | Keyboard Keys             | Touch Support |
+|----------|---------------------------|----------------|
+| 🟢 Move Left  | `←`, `A`                      | ✅ |
+| 🔴 Move Right | `→`, `D`                      | ✅ |
+| 🔼 Jump       | `Space`, `↑`, `W`             | ✅ |
+| 🔽 Duck/Roll  | `↓`                           | ✅ |
 
-   ← → / A D  → Move Horizontally
-   ↑ / W      → Jump
-   Space      → Jump
+> Touch input is enabled via `touchToMouse: true` in the Kaplay config.
+
+Example code from `controls.js`:
+
+```js
+buttons: {
+  jump: {
+    keyboard: ["space", "up", "w"],
+  },
+  left: {
+    keyboard: ["left", "a"],
+  },
+  right: {
+    keyboard: ["right", "d"],
+  },
+  up: {
+    keyboard: ["up", "w"],
+  }
+},
+touchToMouse: true,
